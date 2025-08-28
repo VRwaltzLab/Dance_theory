@@ -23,7 +23,9 @@ and to compel dance researchers to go learn linguistics.
 In order to meet that goal, the author has taken a technique out of theoretical computer science 
 and this preliminaries section will hopefully introduce the terms of one group to the other.
 ## Lead-Follow Social Dance:
-TO_DO
+### Line of Dance:
+Travelling dances like cross step waltz travel around the dance floor while staying with your partner, the counterclockwise(if looking down at your feet) path around the dance floor is referred to as the line of dance. In some idiolects is a rectangle with corners, in my understanding it follows the same paths as any circular waltz mixer would on that floor.
+TO_FINISH
 ## Formal Language Theory:
 TO_DO
 # Model:
@@ -67,7 +69,26 @@ this author claims it would look piecewise linear instead of piecewise cubic or 
 Smoothness in dance experience can be analyzed as smoothness in position data.
 ### Hypothesis 2:
 Competition dancers hit their intended reference points hard, rather than pass through them smoothly.
-## Phonemes-??? :
+## Phonetics - Bucketing Physical Space:
+We start by analyzing the dancers whole body location relative to the line of dance.
+The first bucketing among areas of the dance floor :
+1. travelling
+2. not travelling 
+
+These depend on where a couple preceive the slow lane of the line of dance to end, and the non-travelling area to begin.
+The second bucketing of space is whether the lead is facing:
+1. down line of dance
+2. up line of dance
+3. in towards the center
+4. out towards the edge
+
+The third bucketing is the relative position of the dancers: 
+1. Roughly facing on another
+2. Allemande left (facing in opposite directions with the other dancer to your rough left)
+3. Allemande right
+4. Follow on the lead's left.
+5. Follow on the lead's right.
+
 
 
 ## Phonemes: 
